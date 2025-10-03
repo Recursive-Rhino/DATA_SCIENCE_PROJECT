@@ -13,9 +13,6 @@
 ## 📖 Table of Contents
 - [About This Repo](#about-this-repo)
 - [Upcoming Projects](#upcoming-projects)
-- [Installation & Setup](#installation--setup)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About This Repo
 Welcome! This is my personal collection of Data Science projects. I'll be regularly updating this repository with new notebooks, code, datasets, and insights. Whether it's predictive modeling, natural language processing, or exploratory data analysis, you'll find a variety of topics here.
