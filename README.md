@@ -34,3 +34,4 @@ I will post all my DS projects here soon! Here's a sneak peek of what to expect:
 - Customer Segmentation using Clustering
 
 Check back frequently, or watch the repo for notifications. Each project will have its own folder with README, code, and data.
+Thank You. . . 
